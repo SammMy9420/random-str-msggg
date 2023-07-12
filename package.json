@@ -1,0 +1,16 @@
+{
+  "name": "random-str-msggg",
+  "version": "1.0.0",
+  "description": "Mi primer paquete con el curso de platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Samuel <alexito9420@gmail.com",
+  "license": "ISC",
+  "bin": {
+    "random-str-msg": "./bin/global.js"
+},
+"preferGlobal": true
+}
